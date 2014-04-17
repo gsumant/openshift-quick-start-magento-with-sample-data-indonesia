@@ -283,7 +283,19 @@ $data = array(
     array('LT', 'LT-MR', 'Marijampolės Apskritis'), array('LT', 'LT-PN', 'Panevėžio Apskritis'),
     array('LT', 'LT-SA', 'Šiaulių Apskritis'), array('LT', 'LT-TA', 'Tauragės Apskritis'),
     array('LT', 'LT-TE', 'Telšių Apskritis'), array('LT', 'LT-UT', 'Utenos Apskritis'),
-    array('LT', 'LT-VL', 'Vilniaus Apskritis')
+    array('LT', 'LT-VL', 'Vilniaus Apskritis'),	array('ID','25','Aceh'), array('ID','14','Bali'),
+	array('ID','1','Banten'), array('ID','26','Bengkulu'), array('ID','2','DKI Jakarta'),
+	array('ID','19','Gorontalo'), array('ID','27','Jambi'), array('ID','3','Jawa Barat'),
+	array('ID','4','Jawa Tengah'), array('ID','5','Jawa Timur'), array('ID','7','Kalimantan Barat'),
+	array('ID','8','Kalimantan Selatan'), array('ID','9','Kalimantan Tengah'), array('ID','10','Kalimantan Timur'),
+	array('ID','11','Kalimantan Utara'), array('ID','28','Kepulauan Bangka Belitung'), array('ID','29','Kepulauan Riau'),
+	array('ID','30','Lampung'), array('ID','12','Maluku'), array('ID','13','Maluku Utara'),
+	array('ID','15','Nusa Tenggara Barat'), array('ID','16','Nusa Tenggara Timur'), array('ID','17','Papua'),
+	array('ID','18','Papua Barat'), array('ID','31','Riau'), array('ID','20','Sulawesi Barat'),
+	array('ID','21','Sulawesi Selatan'), array('ID','22','Sulawesi Tengah'), array('ID','23','Sulawesi Tenggara'),
+	array('ID','24','Sulawesi Utara'), array('ID','32','Sumatera Barat'), array('ID','33','Sumatera Selatan'),
+	array('ID','34','Sumatera Utara'), array('ID','6','Yogyakarta')
+
 );
 
 foreach ($data as $row) {

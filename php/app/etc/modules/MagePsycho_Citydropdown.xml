@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+     <modules>
+        <MagePsycho_Citydropdown>
+            <active>true</active>
+            <codePool>local</codePool>
+        </MagePsycho_Citydropdown>
+     </modules>
+</config>

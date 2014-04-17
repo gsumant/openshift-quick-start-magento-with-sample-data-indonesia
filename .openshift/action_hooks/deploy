@@ -60,9 +60,9 @@ then
   echo "Configuring Magento for first use"
   php -f ${OPENSHIFT_REPO_DIR}php/install.php -- \
     --license_agreement_accepted "yes" \
-    --locale "en_GB" \
-    --timezone "Europe/London" \
-    --default_currency "GBP" \
+    --locale "en_US" \
+    --timezone "Asia/Bangkok" \
+    --default_currency "IDR" \
     --db_host "$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT" \
     --db_name "$OPENSHIFT_APP_NAME" \
     --db_user "$OPENSHIFT_MYSQL_DB_USERNAME" \
